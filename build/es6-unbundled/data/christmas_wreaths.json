@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Adele",
+    "title":"Adele",
+    "category":"christmas_wreath",
+    "price":39,
+    "description":"Gold and red balls, walnuts, chestnuts, cinnamon, ribbons",
+    "image":"/data/images/Adele-s.png",
+    "largeImage":"/data/images/Adele-l.png"
+  },
+  {
+    "name":"Emma",
+    "title":"Emma",
+    "category":"christmas_wreath",
+    "price":66,
+    "description":"To hang on the door, ribbon, walnuts, cones, chestnusts",
+    "image":"/data/images/Emma-s.png",
+    "largeImage":"/data/images/Emma-l.png"
+  },
+  {
+    "name":"Florence",
+    "title":"Florence",
+    "category":"christmas_wreath",
+    "price":39,
+    "description":"White hay, silver and white balls, zinnia flowers",
+    "image":"/data/images/Florence-s.png",
+    "largeImage":"/data/images/Florence-l.png"
+  },
+  {
+    "name":"Camilla",
+    "title":"Camilla",
+    "category":"christmas_wreath",
+    "price":39,
+    "description":"Silver hay, red and silver balls, walnuts, cones",
+    "image":"/data/images/Camilla-s.png",
+    "largeImage":"/data/images/Camilla-l.png"
+  },
+  {
+    "name":"Doris",
+    "title":"Doris",
+    "category":"christmas_wreath",
+    "price":39,
+    "description":"Wicker, red and silver balls, walnuts, lotus",
+    "image":"/data/images/Doris-s.png",
+    "largeImage":"/data/images/Doris-l.png"
+  },
+  {
+    "name":"Aurora",
+    "title":"Aurora",
+    "category":"christmas_wreath",
+    "price":39,
+    "description":"Base: birchen switch, gold balls, natural add-ons",
+    "image":"/data/images/Aurora-s.png",
+    "largeImage":"/data/images/Aurora-l.png"
+  }
+]
