@@ -1,6 +1,6 @@
-# Christmas SHOP based on Polymer SHOP
+# Christmas SHOP
 
-https://github.com/Polymer/shop.git
+Based on Polymer SHOP: https://github.com/Polymer/shop.git
 
 ### Setup
 
