@@ -1,4 +1,6 @@
-# SHOP
+# Christmas SHOP based on Polymer SHOP
+
+https://github.com/Polymer/shop.git
 
 ### Setup
 
@@ -16,17 +18,13 @@ Install [polymer-cli](https://github.com/Polymer/polymer-cli):
     polymer init shop
 
     # Or cloning direct from GitHub
-    git clone https://github.com/Polymer/shop.git
-    cd shop
+    git clone https://github.com/dominikazaleska/Polymer-Christmas-Shop.git
+    cd Polymer-Christmas-Shop-master
     bower install
 
 ### Start the development server
 
     polymer serve
-
-### Run web-component-tester tests
-
-    polymer test
 
 ### Build
 
